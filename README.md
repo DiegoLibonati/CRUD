@@ -3,8 +3,8 @@ Programa que permite crear una base de datos. Crear tablas dentro de la base de 
 
 
 Dependencias:
-pip install python
-pip install pillow
+1.pip install python
+2.pip install pillow
 
 ¿Como hago para buildear en visual studio code?
 1. Descargar la carpeta Source
