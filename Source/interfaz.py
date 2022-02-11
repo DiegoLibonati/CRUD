@@ -1,4 +1,5 @@
 from tkinter import *
+from tkinter import messagebox
 from PIL import ImageTk, Image
 import Salir
 import BBDD
@@ -10,6 +11,8 @@ import Borrar
 import Licencia
 import AcercaDe
 import ActivarID
+
+
 
 ############################# Creacion de RAIZ y MENU
 
