@@ -14,3 +14,8 @@ Dependencias:
 
 Contacto:
 instagram: die_libonati
+
+VERSION 0.2
+
+1. Se agrego un sistema de LOGIN+REGISTRO con BBDD (SQLite3)
+2. PROBLEMA DESCUBIERTO: El programa arranca a traves de main.py (ctrl+f5) pero falta agregar que cuando se cierra la pestaña login sin haber ingresado datos ni haber apretado "Entrar" se abre accidentalmente el programa main (El programa CRUD) 
