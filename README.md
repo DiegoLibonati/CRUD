@@ -1,19 +1,46 @@
-# CRUD
-Programa que permite crear una base de datos. Crear tablas dentro de la base de datos creada y crear, actualizar, borar y leer los datos de la base de datos.
+# CRUD [Python]
 
+Through a login and a previous registration you will be able to enter the CRUD application. This CRUD application will allow you to create a database with a table and predetermined fields. In this you will be able to create, modify, read and delete records from the database used (SQLite3). The modifications, readings and the delete function can only be used with the ID search that the application has.
 
-Dependencias:
+<h1 align="center"> Hey 👋🏽, I'm Libonati Diego </h1>
+
+<h3 align="center">
+    Autodidactic Kid in <a href="https://www.instagram.com/die_libonati/?hl=es-la">Argentina</a>.  
+</h3>
+
+<h3 align="center">
+<img align="center" alt="cat coding" src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/cat.gif" width="200" />
+ </h3>
+
+<h1 align="left"> CRUD - Units [PYTHON] </h1>
 1. pip install python
 2. pip install pillow
 
-¿Como hago para buildear en visual studio code?
-1. Descargar la carpeta Source
-2. Instalar Dependencias (python y pillow)
-3. Abrir main.py en Visual Studio Code (o otro)
-4. Ejecutar (En visual studio code -> ctrl+f5)
 
-Contacto:
-instagram: die_libonati
+<h1 align="left"> CRUD - How to built [PYTHON] </h1>
+1. Download the source folder
+2. Install units (python and pillow)
+3. Open main.py in Visual Studio Code (or other)
+4. Run (In Visual Studio Code -> ctrl + f5)
+
+<br>
+<h2 align="left">
+  Contact=
+</h2>
+<br/>
+
+<p align="center">
+ <a href="https://www.instagram.com/die_libonati/?hl=es-la"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/ig2.png" width="30px" alt="instagram"></a> &nbsp; &nbsp;
+ <a href="https://www.facebook.com/dielibonati/"><img src="https://github.com/DiegoLibonati/DiegoLibonati/blob/main/template/face.png" width="30px" alt="facebook"></a> &nbsp; &nbsp;
+ <a href="mailto:diego.libonati1998@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://github.com/DiegoLibonati"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
+</p>
+
+
+
+
+
+
 
 VERSION 0.2
 
