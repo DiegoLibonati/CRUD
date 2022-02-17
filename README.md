@@ -13,15 +13,23 @@ Through a login and a previous registration you will be able to enter the CRUD a
  </h3>
 
 <h1 align="left"> CRUD - Units [PYTHON] </h1>
-1. pip install python
-2. pip install pillow
-
+<p> 1. pip install python </p>
+<p> 2. pip install pillow </p>
 
 <h1 align="left"> CRUD - How to built [PYTHON] </h1>
-1. Download the source folder
-2. Install units (python and pillow)
-3. Open main.py in Visual Studio Code (or other)
-4. Run (In Visual Studio Code -> ctrl + f5)
+<p> 1. Download the source folder</p>
+<p> 2. Install units (python and pillow)</p>
+<p> 3. Open main.py in Visual Studio Code (or other)</p>
+<p> 4. Run (In Visual Studio Code -> ctrl + f5)</p>
+
+<h1 align="left"> CRUD - Changes [PYTHON] </h1>
+
+<p>.Added a LOGIN+REGISTRATION system with DB (SQLite3). </p>
+<p>.[NEW VERSION 0.3] Added "*" sign every time you enter the password.</p>
+<p>.[NEW VERSION 0.3] Optimized the code</p>
+
+<h1 align="left"> CRUD - SOLVED BUGS [PYTHON] </h1>
+<p>.[NEW VERSION 0.3] Fixed the login + program problem </p>
 
 <br>
 <h2 align="left">
@@ -42,12 +50,4 @@ Through a login and a previous registration you will be able to enter the CRUD a
 
 
 
-VERSION 0.2
 
-1. Se agrego un sistema de LOGIN+REGISTRO con BBDD (SQLite3)
-2. PROBLEMA DESCUBIERTO: El programa arranca a traves de main.py (ctrl+f5) pero falta agregar que cuando se cierra la pestaña login sin haber ingresado datos ni haber apretado "Entrar" se abre accidentalmente el programa main (El programa CRUD) 
-
-VERSION 0.3
-1. Se arreglo el Problema de login + programa.
-2. Se agrego signo "*" cada vez que se ingresa la contraseña
-3. Se optimizo el codigo
